@@ -13,7 +13,9 @@
 
 Tenho 29 anos e estou vivendo a empolgante jornada da **transição de carreira** para a tecnologia. 💻💖
 
-Minha curiosidade começou trabalhando em uma escola de tecnologia e hoje não consigo mais parar de pensar em linhas de código! Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco total em **Front-end**.
+Minha curiosidade começou trabalhando em uma escola de tecnologia e hoje não consigo mais parar de pensar em linhas de código! Rs.
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Front-end**.
 
 💖 **O que me move:** Tenho um verdadeiro hiperfoco em criar coisas do zero. Ver um site ganhando forma, unindo a lógica com o visual, é o que me motiva a estudar todos os dias.
 
@@ -29,14 +31,13 @@ Minha curiosidade começou trabalhando em uma escola de tecnologia e hoje não c
 
 ### 🎯 Meu Objetivo:
 
-Conquistar minha primeira oportunidade na área de tecnologia e crescer como desenvolvedora, entregando interfaces incríveis e funcionais.
+<i>**Em busca da minha primeira oportunidade na área de tecnologia e crescer como desenvolvedora, entregando interfaces incríveis e funcionais.**</i> 
 
 ---
-
 ### 📫 Vamos conversar?
 
-- **LinkedIn:** [://linkedin.com/in/jessicatrajano](https://www.://linkedin.com/in/jessicatrajano) 
-- **E-mail:** [jessicatrajanoo@yahoo.com](mailto:jessicatrajanoo@yahoo.com) 
+- **LinkedIn:** [linkedin.com/in/jessicatrajano](https://www.linkedin.com) 🔗
+- **E-mail:** [jessicatrajanoo@yahoo.com](mailto:jessicatrajanoo@yahoo.com) 📧
 
 ---
 <p align="center">
