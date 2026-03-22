@@ -1,4 +1,4 @@
-<h1 align="center">Jéssica Trajano</h1>
+<h1 align="center">Jéssica Trajano 🌸</h1>
 
 <p align="center">
   💻 Desenvolvedora Front-end em formação • ADS  
@@ -9,40 +9,30 @@
 
 ---
 
-oii, eu sou a Jéssica ✨   
+### ✨ Oii, eu sou a Jéssica!
 
-tenho 29 anos e estou em transição de carreira para a área de tecnologia.
+Tenho 29 anos e estou vivendo a empolgante jornada da **transição de carreira** para a tecnologia. 🚀
 
-depois de trabalhar em uma escola de tecnologia, comecei a me interessar cada vez mais por esse mundo… e hoje posso dizer que estou completamente envolvida — agora eu só penso em linhas de código rs
+Minha curiosidade começou trabalhando em uma escola de tecnologia e hoje não consigo mais parar de pensar em linhas de código! Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco total em **Front-end**.
 
-atualmente faço Análise e Desenvolvimento de Sistemas e tenho focado meus estudos em desenvolvimento front-end.
-
-descobri que tenho um hiperfoco em criar coisas do zero, principalmente sites. gosto muito tanto da parte lógica quanto da parte visual — ver algo sair do zero e ganhar forma é o que mais me motiva.
+💖 **O que me move:** Tenho um verdadeiro hiperfoco em criar coisas do zero. Ver um site ganhando forma, unindo a lógica com o visual, é o que me motiva a estudar todos os dias.
 
 ---
 
-###  o que estou estudando:
+### 🛠️ No meu "Toolkit" atual:
 
-- HTML  
-- CSS  
-- JavaScript  
-
----
-
-###  no momento atual:
-
-- criando meus primeiros projetos  
-- praticando todos os dias  
-- evoluindo na base da consistência  
+- **Linguagens:** HTML5, CSS3 e JavaScript (ES6+).
+- **Ferramentas:** Git, GitHub e VS Code.
+- **Foco:** Praticando a base com consistência e criando meus primeiros projetos autorais.
 
 ---
 
-### meu objetivo:
+### 🎯 Meu Objetivo:
 
-conseguir minha primeira oportunidade na área de tecnologia e crescer na área de desenvolvimento front-end.
+Conq minha primeira oportunidade na área de tecnologi e crescer como Desenvolvedora, entregando interfaces incríveis e funcionais.
 
 ---
 
-###  contato:
-
+### 📫 Vamos conversar?
 LinkedIn: linkedin.com/in/jessicatrajano 💻💖
+<a href="https://linkedin.com/in/jessicatrajano" target="_blank">
