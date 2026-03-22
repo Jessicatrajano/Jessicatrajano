@@ -11,7 +11,7 @@
 
 ### ✨ Oii, eu sou a Jéssica!
 
-Tenho 29 anos e estou vivendo a empolgante jornada da **transição de carreira** para a tecnologia. 🚀
+Tenho 29 anos e estou vivendo a empolgante jornada da **transição de carreira** para a tecnologia. 💻💖
 
 Minha curiosidade começou trabalhando em uma escola de tecnologia e hoje não consigo mais parar de pensar em linhas de código! Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco total em **Front-end**.
 
@@ -29,10 +29,16 @@ Minha curiosidade começou trabalhando em uma escola de tecnologia e hoje não c
 
 ### 🎯 Meu Objetivo:
 
-Conq minha primeira oportunidade na área de tecnologi e crescer como Desenvolvedora, entregando interfaces incríveis e funcionais.
+Conquistar minha primeira oportunidade na área de tecnologia e crescer como desenvolvedora, entregando interfaces incríveis e funcionais.
 
 ---
 
 ### 📫 Vamos conversar?
-LinkedIn: linkedin.com/in/jessicatrajano 💻💖
-<a href="https://linkedin.com/in/jessicatrajano" target="_blank">
+
+- **LinkedIn:** [://linkedin.com/in/jessicatrajano](https://www.://linkedin.com/in/jessicatrajano) 
+- **E-mail:** [jessicatrajanoo@yahoo.com](mailto:jessicatrajanoo@yahoo.com) 
+
+---
+<p align="center">
+  <i>"Transformando café e lógica em interfaces com propósito."</i>
+</p>
